@@ -1,0 +1,8 @@
+1
+
+playing around with git
+
+adding more text into it
+
+
+Trying addidng txt by printif
